@@ -1,2 +1,2 @@
 pd.DataFrame([[35, 21], [41, 34]], columns=['Apples', 'B
-ananas']), ['2017 Sales', '2018 Sales'])
+ananas'], ['2017 Sales', '2018 Sales'])
